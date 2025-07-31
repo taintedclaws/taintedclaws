@@ -9,3 +9,5 @@
 <p align="center"> Don't copy my skins. Always ask before taking inspo. </p>
 
 ---
+
+<p align="center"> Did you know that an owl's diet consists of insects, mice, frogs, snakes and a creature called Malik? Nature is truly fascinating. </p>
