@@ -10,4 +10,5 @@
 
 ---
 
-<p align="center"> Did you know that an owl's diet consists of insects, mice, frogs, snakes and a creature called Malik? Nature is truly fascinating. </p>
+<p align="center"> Did you know that an owl's diet consists of insects, mice, frogs, snakes and a creature called Malik? </p>
+<p align="center"> Nature is truly fascinating. </p>
