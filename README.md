@@ -1,4 +1,9 @@
-<p style="text-align:center"><strong>[ Info below is for Pony Town only ]</strong></p><p style="text-align:center"></p>
-<p style="text-align:center"><strong>I go AFK a lot.</strong> I talk mostly to people in my party. I sometimes interact with friends/others if I have the time. I don't really like to chat but <strong>you're free to leave whispers. </strong>I don't wish to interact with fandoms. If we're already friends and are of the same interest, that's fine.</p>
-<p></p>
-<p style="text-align:center"><strong>Use the name Luther when referring to me in the game. </strong>I'm not comfortable using my own name in public, and please avoid asking personal questions. I will not be responding to them. <strong>Don't copy my skins. Always ask before taking inspo.</strong></p>
+### <p align="center"> Info below is for Pony Town only </p>
+
+<p align="center"> I go AFK a lot. I talk mostly to people in my party. I sometimes interact with friends/others if I have the time. I don't really like to chat but you're free to leave whispers. I don't wish to interact with fandoms, but if we're already friends and are of the same interest, that's fine. </p>
+
+<p align="center"> I would sometimes use tags in the game like DNIUP(do not interact unless party members), DNIUF/CF (do not interact unless friends or close friends), and DNIUID (do not interact unless I do) only if I'm not in the best headspace to interact with others, so please mind the tags. </p>
+
+<p align="center"> Use the name Luther when referring to me in the game and please avoid asking personal questions. I will not be responding to them. </p>
+
+<p align="center"> Don't copy my skins. Always ask before taking inspo. </p>
